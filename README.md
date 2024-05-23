@@ -6,8 +6,8 @@
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                               |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                              |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Introduction to Supervised Learning                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/introduction-to-supervised-learning-20791)                               |
 |      02 | 📖 Mastering Linear Regression Fundamentals              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mastering-linear-regression-fundamentals-20799)                          |
 |      03 | 📖 Prediction for Beijing Housing Prices                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/prediction-for-beijing-housing-prices-20805)                             |
@@ -84,7 +84,8 @@ Machine learning is the science of programming computers so they can learn from 
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
