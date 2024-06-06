@@ -17,15 +17,15 @@ Machine learning is the science of programming computers so they can learn from 
 |     007 | 📖 Python Data Structures Fundamentals                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-python-data-structures-fundamentals-74)                                 |
 |     008 | 📖 Variable Type Conversion                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-variable-type-conversion-95)                                            |
 |     009 | 📖 Linear Models in Scikit-Learn                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-linear-models-in-scikit-learn-71093)                                        |
-|     010 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-linear-and-quadratic-discriminant-analysis-71094)                           |
+|     010 | 📖 Discriminant Analysis Classifiers Explained           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-discriminant-analysis-classifiers-explained-71094)                          |
 |     011 | 📖 Exploring Scikit-Learn Datasets and Estimators        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095)                       |
 |     012 | 📖 Kernel Ridge Regression                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-kernel-ridge-regression-71096)                                              |
 |     013 | 📖 Supervised Learning with Scikit-Learn                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-supervised-learning-with-scikit-learn-71097)                                |
 |     014 | 📖 Model Selection: Choosing Estimators and Their Par... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098)             |
-|     015 | 📖 Support Vector Machines                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-support-vector-machines-71099)                                              |
-|     016 | 📖 Stochastic Gradient Descent                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-stochastic-gradient-descent-71100)                                          |
+|     015 | 📖 Supervised Learning With Support Vectors              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-supervised-learning-with-support-vectors-71099)                             |
+|     016 | 📖 Exploring Scikit-Learn SGD Classifiers                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100)                               |
 |     017 | 📖 Unsupervised Learning: Seeking Representations of ... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101)            |
-|     018 | 📖 Stochastic Gradient Descent                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-stochastic-gradient-descent-71102)                                          |
+|     018 | 📖 Implementing Stochastic Gradient Descent              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-implementing-stochastic-gradient-descent-71102)                             |
 |     019 | 📖 Working With Text Data                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-working-with-text-data-71103)                                               |
 |     020 | 📖 Gaussian Process Regression and Classification        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-regression-and-classification-71104)                       |
 |     021 | 📖 Dimensional Reduction with PLS Algorithms             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-dimensional-reduction-with-pls-algorithms-71105)                            |
@@ -56,7 +56,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     046 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-k-nearest-neighbor-algorithm-20796)                                         |
 |     047 | 📖 Probabilistic Classification with Naive Bayes         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-probabilistic-classification-with-naive-bayes-20801)                        |
 |     048 | 📖 Implementation of Gaussian Distribution Function a... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/notebooks-lab-implementation-of-gaussian-distribution-function-and-draw-20786) |
-|     049 | 📖 Support Vector Machines                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-support-vector-machines-20812)                                              |
+|     049 | 📖 Nonlinear Pattern Recognition Techniques              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-nonlinear-pattern-recognition-techniques-20812)                             |
 |     050 | 📖 Perceptron and Artificial Neural Network              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-perceptron-and-artificial-neural-network-20802)                             |
 |     051 | 📖 Train Handwritten Digits Recognition Neural Networ... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-train-handwritten-digits-recognition-neural-network-20814)                  |
 |     052 | 📖 Decision Tree Classification with Python              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-decision-tree-classification-with-python-20760)                             |
@@ -142,8 +142,8 @@ Machine learning is the science of programming computers so they can learn from 
 |     132 | 📖 Gaussian Process Classification on Iris Dataset       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-classification-on-iris-dataset-49140)                      |
 |     133 | 📖 Gaussian Process Classification                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-classification-49141)                                      |
 |     134 | 📖 Gaussian Process Classification on XOR Dataset        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-classification-on-xor-dataset-49142)                       |
-|     135 | 📖 Gaussian Process Regression                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-regression-49146)                                          |
-|     136 | 📖 Gaussian Process Regression                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-regression-49145)                                          |
+|     135 | 📖 Nonlinear Predictive Modeling Using Gaussian Proce... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-nonlinear-predictive-modeling-using-gaussian-process-49146)                 |
+|     136 | 📖 Fit Gaussian Process Regression Model                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-fit-gaussian-process-regression-model-49145)                                |
 |     137 | 📖 Gaussian Process Regression: Kernels                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-process-regression-kernels-49148)                                  |
 |     138 | 📖 Early Stopping of Gradient Boosting                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-early-stopping-of-gradient-boosting-49150)                                  |
 |     139 | 📖 Blind Source Separation                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-blind-source-separation-49161)                                              |
@@ -153,7 +153,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     143 | 📖 Simple 1D Kernel Density Estimation                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-simple-1d-kernel-density-estimation-49175)                                  |
 |     144 | 📖 Active Learning Withel Propagation                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-active-learning-withel-propagation-49184)                                   |
 |     145 | 📖 Lasso and Elastic Net                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-lasso-and-elastic-net-49188)                                                |
-|     146 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-linear-and-quadratic-discriminant-analysis-49193)                           |
+|     146 | 📖 Discriminant Analysis Classification Algorithms       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-discriminant-analysis-classification-algorithms-49193)                      |
 |     147 | 📖 Hierarchical Clustering With Scikit-Learn             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-hierarchical-clustering-with-scikit-learn-49198)                            |
 |     148 | 📖 Local Outlier Factor for Novelty Detection            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-local-outlier-factor-for-novelty-detection-49200)                           |
 |     149 | 📖 Outlier Detection With LOF                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-outlier-detection-with-lof-49201)                                           |
@@ -179,7 +179,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     169 | 📖 Multi-Output Decision Tree Regression                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-multi-output-decision-tree-regression-49322)                                |
 |     170 | 📖 Scikit-Learn Libsvm GUI                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-scikit-learn-libsvm-gui-49333)                                              |
 |     171 | 📖 Wikipedia PageRank With Randomized SVD                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-wikipedia-pagerank-with-randomized-svd-49334)                               |
-|     172 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-isotonic-regression-with-scikit-learn-71112)                                |
+|     172 | 📖 Nonlinear Regression with Isotonic                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-nonlinear-regression-with-isotonic-71112)                                   |
 |     173 | 📖 Neural Network Models                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-neural-network-models-71113)                                                |
 |     174 | 📖 Gaussian Mixture Models                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-gaussian-mixture-models-71114)                                              |
 |     175 | 📖 Manifold Learning with Scikit-Learn                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-manifold-learning-with-scikit-learn-71115)                                  |
@@ -263,7 +263,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     253 | 📖 Plot Grid Search Digits                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-plot-grid-search-digits-49155)                                              |
 |     254 | 📖 Decision Trees on Iris Dataset                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-decision-trees-on-iris-dataset-49167)                                       |
 |     255 | 📖 Anomaly Detection With Isolation Forest               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-anomaly-detection-with-isolation-forest-49171)                              |
-|     256 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-isotonic-regression-with-scikit-learn-49172)                                |
+|     256 | 📖 Nonparametric Isotonic Regression with Scikit-Lear... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-nonparametric-isotonic-regression-with-scikit-learn-49172)                  |
 |     257 | 📖 Exploring Johnson-Lindenstrauss Lemma with Random ... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-exploring-johnson-lindenstrauss-lemma-with-random-projections-49174)        |
 |     258 | 📖 Principal Component Analysis with Kernel PCA          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-principal-component-analysis-with-kernel-pca-49177)                         |
 |     259 | 📖 Plot Kernel Ridge Regression                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-plot-kernel-ridge-regression-49178)                                         |
@@ -335,9 +335,9 @@ Machine learning is the science of programming computers so they can learn from 
 |     325 | 📖 Ensemble Methods Exploration with Scikit-Learn        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-ensemble-methods-exploration-with-scikit-learn-71108)                       |
 |     326 | 📖 Feature Selection with Scikit-Learn                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-feature-selection-with-scikit-learn-71110)                                  |
 |     327 | 📖 Evaluating Machine Learning Model Quality             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-evaluating-machine-learning-model-quality-71124)                            |
-|     328 | 📖 Deploying a Simple TensorFlow Model                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-298840)                              |
-|     329 | 📖 Classifying Iris Using SVM                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-classifying-iris-using-svm-300195)                                      |
-|     330 | 📖 Early Stopping for Machine Learning                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-early-stopping-for-machine-learning-300214)                                 |
+|     328 | 📖 Deploying a Simple TensorFlow Model (Lab)             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-lab-298840)                          |
+|     329 | 📖 Classifying Iris Using SVM (Lab)                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-classifying-iris-using-svm-lab-300195)                                  |
+|     330 | 📖 Early Stopping for Machine Learning (Lab)             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-early-stopping-for-machine-learning-lab-300214)                             |
 |     331 | 📖 Plot Digits Pipe                                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-plot-digits-pipe-49112)                                                     |
 |     332 | 📖 Scikit-Learn Estimators and Pipelines                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-scikit-learn-estimators-and-pipelines-49120)                                |
 |     333 | 📖 Feature Transformations With Ensembles of Trees       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-feature-transformations-with-ensembles-of-trees-49128)                      |
@@ -354,7 +354,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     344 | 📖 Effect of Varying Threshold for Self-Training         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-effect-of-varying-threshold-for-self-training-49280)                        |
 |     345 | 📖 MNIST Multinomial Logistic Regression                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-mnist-multinomial-logistic-regression-49297)                                |
 |     346 | 📖 Iris Flower Classification using Voting Classifier    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-iris-flower-classification-using-voting-classifier-49328)                   |
-|     347 | 📖 Encoding Label to One-Hot                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-encoding-label-to-one-hot-300216)                                           |
+|     347 | 📖 Encoding Label to One-Hot (Lab)                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-encoding-label-to-one-hot-lab-300216)                                       |
 |     348 | 📖 Approximate Nearest Neighbors in TSNE                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-approximate-nearest-neighbors-in-tsne-49054)                                |
 |     349 | 📖 Creating Visualizations With Display Objects          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-creating-visualizations-with-display-objects-49116)                         |
 |     350 | 📖 Face Recognition With Eigenfaces and SVMs             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-face-recognition-with-eigenfaces-and-svms-49123)                            |
@@ -374,7 +374,7 @@ Machine learning is the science of programming computers so they can learn from 
 |     364 | 📖 Dimensionality Reduction With Pipeline and GridSea... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-dimensionality-reduction-with-pipeline-and-gridsearchcv-49092)              |
 |     365 | 📖 Detection Error Tradeoff Curve                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-detection-error-tradeoff-curve-49103)                                       |
 |     366 | 📖 Precision-Recall Metric for Imbalanced Classificat... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-precision-recall-metric-for-imbalanced-classification-49249)                |
-|     367 | 📖 Data Cleaning and Purification with Python            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-data-cleaning-and-purification-with-python-300209)                          |
+|     367 | 📖 Data Cleaning and Purification with Python (Lab)      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-data-cleaning-and-purification-with-python-lab-300209)                      |
 |     368 | 📖 Column Transformer With Mixed Types                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-column-transformer-with-mixed-types-49086)                                  |
 |     369 | 📖 Digit Classification With RBM Features                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-digit-classification-with-rbm-features-49259)                               |
 |     370 | 📖 Semi-Supervised Text Classification                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-semi-supervised-text-classification-49281)                                  |
@@ -387,43 +387,43 @@ Machine learning is the science of programming computers so they can learn from 
 |     377 | 📖 Feature Scaling in Machine Learning                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-feature-scaling-in-machine-learning-49277)                                  |
 |     378 | 📖 Pipelines and Composite Estimators                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-pipelines-and-composite-estimators-71128)                                   |
 |     379 | 📖 Scikit-Learn Classifier Comparison                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ml-scikit-learn-classifier-comparison-49080)                                   |
-|     380 | 📖 Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-deploying-mobilenet-with-tensorflow-js-and-flask-298849)            |
+|     380 | 📖 Deploying MobileNet With TensorFlow.js and Flask (... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/javascript-deploying-mobilenet-with-tensorflow-js-and-flask-lab-298849)        |
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
